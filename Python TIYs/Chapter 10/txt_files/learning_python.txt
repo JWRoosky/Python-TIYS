@@ -1,0 +1,3 @@
+In Python you can use OOP
+In Python you can use iteration
+In Python you can use boolean logic to solve complex problems
